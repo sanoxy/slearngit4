@@ -1,1 +1,2 @@
-Welcome to Git training
+Welcome to Git and GitHub training!!
+By Abhresh Sugandhi!!!
